@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{45F1C534-0F2C-4105-9E71-2D597CEC7CFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularManagement", "WebApplication1\AngularManagement.csproj", "{45F1C534-0F2C-4105-9E71-2D597CEC7CFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
